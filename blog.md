@@ -25,6 +25,14 @@
 
 ### Usage of type intersection
 
+    let's assume you have type Name=string and type Age=string, now you need to create a type Person where you need to define both type Name and Age here you can you type intersection. 
+    let's see the code below,
 
+    type Name = string;
+    type Age = string;
+
+    type Person = Name & Age;
+
+    here Person is an intersection type that includes both of type Name and Age.
 
     
