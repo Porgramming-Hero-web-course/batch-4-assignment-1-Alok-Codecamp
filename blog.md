@@ -33,7 +33,9 @@
     type X and type Y and you neeed a new type where you need both
     of type X and Y. in this case you can use intersection type.
     intersection allow you to define a new type that's combination of
-    type X and type Y. lets assume our new type Z. here Z can be hold both of type X and type Y. 
+    type X and type Y. lets assume our new type Z. here Z can be hold 
+    both of type X and type. intersection types are widely used in typescript. 
+    . 
 
 ### Usage of type intersection
 
