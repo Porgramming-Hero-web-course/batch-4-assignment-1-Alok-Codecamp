@@ -1,6 +1,6 @@
  # The significance of union and intersection types in typescript
 
- Now we will discuss about significance of union and intersection types. First we will talk about union types. 
+ Here we will discuss about significance of union and intersection types.
  
  ##  union type
     In typescript union types allow you to specify that a single  type can hold tow or more types, and during compilation any one of those types can be used. It is essential to ensure that at least one of the types in the union includes all the required properties.
